@@ -41,3 +41,6 @@ final_image_name = image_name + ".png"
 
 # saving the qrcode as an image
 img.save(final_image_name)
+
+
+# A small change
